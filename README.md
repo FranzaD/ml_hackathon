@@ -1,7 +1,7 @@
 # UCI Machine Learning Repository Hackathon
 hackathon @ UCI 2022
 
-Collaborated with TingTing Tsai and Lina Pav to build Random Forest, Naive Bayes, and KNN Classifier models to predict results for UCI Machine Learning Hackathon. We used a small subset of features to maximize accuracy. This was our first time doing anything in machine learning so we were very proud to have working models by the end of the hackathon!
+I (Deborah Franza) collaborated with TingTing Tsai and Lina Pav to build Random Forest, Naive Bayes, and KNN Classifier models to predict results for UCI Machine Learning Hackathon. We used a small subset of features to maximize accuracy. This was our first time doing anything in machine learning so we were very proud to have working models by the end of the hackathon!
 
 [Hackathon Event Website](https://uci-ml-repo.github.io/events/hackathon22/)
 
